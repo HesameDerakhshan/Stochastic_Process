@@ -1,2 +1,2 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hesamedn/Stochastic_Process/main?filepath=PDF_Estimation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/hesamedn-stochastic_process-qrj44ysh/notebooks/PDF_Estimation/PDF_Estimation.ipynb)
 ## Parametric Density Estimation
